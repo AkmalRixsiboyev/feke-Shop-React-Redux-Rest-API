@@ -1,0 +1,20 @@
+.imge{
+    height: 250px!important;
+
+    padding:initial!important;
+}
+.imge img{
+   max-height: 200px!important;
+   max-width: 200px!important;
+
+}
+.h-52{
+    height: 170px;
+
+}
+.fs-7{
+    font-size: 14px;
+}
+.fs-8{
+    font-size: 13px;
+}
