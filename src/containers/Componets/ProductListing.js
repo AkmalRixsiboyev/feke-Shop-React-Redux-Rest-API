@@ -19,7 +19,7 @@ function ProductListing() {
     useEffect(() => {
         fetchProducts()
     }, [])
-    console.log('Products:',products)
+
     return (
         <div className={' row my-3 '}>
             <ProductComponent/>
